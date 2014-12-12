@@ -232,7 +232,7 @@ public class Reversi_board extends javax.swing.JFrame implements MouseListener {
             }
         });
         getContentPane().add(set_player_name);
-        set_player_name.setBounds(530, 440, 47, 23);
+        set_player_name.setBounds(530, 440, 90, 23);
 
         board_base.setIcon(new javax.swing.ImageIcon(getClass().getResource("/image/chessboard.jpg"))); // NOI18N
         getContentPane().add(board_base);
