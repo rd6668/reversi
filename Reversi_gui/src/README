@@ -1,0 +1,18 @@
+README
+
+CS541 final Project
+Author: 
+Chris Rosensteel
+Di Ren
+Zhaoyi Xu
+
+this project contains two parts: GUI, and AI 
+it must connect to the server which provided by Professor Noel Codella 
+
+1. To compile the project, you must put all the files in src folder in the way it is(relevant path)
+compile all three java files together (Ai.java, Reversi_board.java, Reversi_gui.java)
+
+2. to run the project, run Reversi_gui.java which contains main function
+
+3. to set ai or player, please go Ai.java line 37, set that true (use AI to play), false (use player to play)
+
